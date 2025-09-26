@@ -8,6 +8,9 @@ I am a Digital Design student at the Federal University of Ceará, currently hal
 - How to reach me: lara.mariagurgel1611@gmail.com
 - Pronouns: she/her
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lara-gurgel-2a3b5b349)
+
+
 .・。.・゜✭・.・✫・゜・。.
 ### Skills in programming
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
