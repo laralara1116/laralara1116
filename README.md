@@ -23,33 +23,11 @@ I am a Digital Design student at the Federal University of Ceará (UFC - Campus 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 [![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)](https://adobe.com)
 [![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://adobe.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
 
 #### Development & Databases
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,postgres,git,github)](https://skillicons.dev)
 
 </div>
-
----
-
-### Featured Projects
-
-#### UFC Services Catalog — NPI Internship
-* **Role:** UX/UI Researcher & Designer
-* **Overview:** Applied User-Centered Design (UCD) principles and the Double Diamond framework to conduct user research, collaborate with stakeholders, define system requirements, and build high-fidelity interactive prototypes in Figma.
-* **Goal:** Centralize, standardize, and simplify access to all university services for both internal and external communities.
-
-#### Prevela — Mobile Design & Development
-* **Role:** Mobile Designer & React Native Developer
-* **Overview:** Co-developed a mobile application tailored for the Brazilian cosmetics market to bridge the trust gap regarding local brands. Handled ideation, UI prototyping, wireframing, and front-end mobile architecture.
-* **Tech Stack:** `React Native` | `Expo` | `Firebase Auth & Database` | `Cloudinary` | `Figma`
-
-#### Stellaris — Web Design
-* **Role:** Web Designer & Front-end Developer
-* **Overview:** Designed and built a web platform for a university events company. Focused on information architecture, past/future event visibility, and interactive partnership forms to improve stakeholder relationship management.
-* **Tech Stack:** `React` | `Cloudinary` | `Figma`
-
----
 
 ### How to Reach me:
 
