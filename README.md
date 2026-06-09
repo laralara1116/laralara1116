@@ -36,6 +36,4 @@ I am a Digital Design student at the Federal University of Ceará (UFC - Campus 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-gurgel-2a3b5b349)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net)
 
-Thank you for visiting! Feel free to explore my repositories or reach out for collaborations.
-
 </div>
